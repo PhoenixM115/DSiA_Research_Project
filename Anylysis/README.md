@@ -19,11 +19,17 @@ The goal of this stage is to:
 
 ## Input Files
 
-N/A
+- `cleaned_response_data.csv`
+- `cleaned_mclsc_data.csv`
+- `aligned_call_labels.csv`
 
 ## Output Files
 
-N/A
+- Response time summary tables
+- Before/after comparison graphs
+- Dispatch reason distribution graphs
+- Disposition distribution graphs
+- Statistical test results
 
 ## How to Run
 
